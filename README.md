@@ -7,7 +7,7 @@ Me chamo Guilherme Ertel, tenho 20 anos e sou natural de Palmas PR. Concluí o e
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=&message=CSS&color=white&style=for-the-badge"/>
   <img src="https://img.shields.io/static/v1?label=&message=Python&color=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=github&color=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Github&color=white&style=for-the-badge"/>
   <img src="https://img.shields.io/static/v1?label=&message=HTML&color=black&style=for-the-badge"/>
   <a href="">
   <img src="https://img.shields.io/static/v1?label=&message=INstragram&color=white&style=for-the-badge"/>
