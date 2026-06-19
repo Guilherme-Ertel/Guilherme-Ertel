@@ -1,4 +1,4 @@
-# 😇Guilherme Ertel
+# Guilherme Ertel
 
 **`Universitario`**
 
