@@ -13,14 +13,14 @@ Me chamo Guilherme Ertel, tenho 20 anos e sou natural de Palmas PR. Concluí o e
             src="https://custom-icon-badges.demolab.com/badge/-Email%20-red?style=for-the-badge&logoColor=white&logo=mail"
         />
     </a>
-    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/guilherme-ertel-828513308/">
+    <a href="https://www.linkedin.com/in/guilherme-ertel-828513308/">
         <img 
             alt="Perfil do Linkedin"
             title="Linkedin"  
             src="https://custom-icon-badges.demolab.com/badge/-Linkedin%20-blue?style=for-the-badge&logoColor=white&logo=linked"
         />
     </a>
-    <a href="https://www.instagram.com/cassi.comim?igsh=dWtsOWswOWZwNG04">
+    <a href="https://www.instagram.com/gui_ertel/">
         <img 
             alt="Perfil do Instagram"
             title="Instagram"  
