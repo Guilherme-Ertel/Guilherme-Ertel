@@ -1,47 +1,50 @@
 # Guilherme Ertel
 
-**`Universitario`**
+**`🎓 Universitário | Estudante de Ciência da Computação`**
 
-Me chamo Guilherme Ertel, tenho 20 anos e sou natural de Palmas PR. Concluí o ensino médio no IFPR, com o curso técnico em Serviços Juridicos. Atualmente, estou cursando Ciencia da Computação na UFFS-Campus Chapecó. Tenho um grande interesse em aprender e uma grande paixão por computação.
+Olá! Me chamo Guilherme Ertel, tenho 20 anos e sou natural de Palmas, Paraná.
+
+Concluí o Ensino Médio Integrado ao Curso Técnico em Serviços Jurídicos pelo IFPR. Atualmente, curso Ciência da Computação na Universidade Federal da Fronteira Sul (UFFS) – Campus Chapecó.
+
+Tenho grande interesse por tecnologia, desenvolvimento de software e aprendizado contínuo. Estou sempre buscando aprimorar minhas habilidades em programação, desenvolvimento web e ferramentas que contribuam para a criação de soluções úteis e eficientes.
 
 
 <p align="left">
     <a href="mailto:guilhermeertel159@gmail.com">
         <img 
-            alt="Endereço de email"
-            title="Email"  
-            src="https://custom-icon-badges.demolab.com/badge/-Email%20-black?style=for-the-badge&logoColor=white&logo=mail"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/guilherme-ertel-828513308/">
+            alt="Email"
+            title="Enviar Email"
+            src="https://custom-icon-badges.demolab.com/badge/-Email-black?style=for-the-badge&logo=mail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/Guilherme-Ertel-828513308/" target="_blank">
         <img 
-            alt="Perfil do Linkedin"
-            title="Linkedin"  
-            src="https://custom-icon-badges.demolab.com/badge/-Linkedin%20-white?style=for-the-badge&logoColor=white&logo=linked"
+            alt="LinkedIn"
+            title="Perfil no LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://www.instagram.com/gui_ertel/">
+    <a href="https://www.instagram.com/gui_ertel/" target="_blank">
         <img 
-            alt="Perfil do Instagram"
-            title="Instagram"  
-            src="https://custom-icon-badges.demolab.com/badge/-instagram%20-black?style=for-the-badge&logoColor=white&logo=instagram"
+            alt="Instagram"
+            title="Perfil no Instagram"
+            src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Guilherme-Ertel?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Guilherme-Ertel?tab=repositories&sort=stargazers" target="_blank">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/cassianocomim?color=whitec&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Estrelas"
+            title="Total de estrelas recebidas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Guilherme-Ertel?style=for-the-badge&logo=star&logoColor=white&label=Estrelas"
         />
     </a>
-    <a href="https://github.com/Guilherme-Ertel?tab=followers">
-    <img 
-        alt="Seguidores" 
-        title="Me siga no GitHub" 
-        src="https://img.shields.io/github/followers/cassianocomim?color=black&labelColor=blackE&style=for-the-badge&logo=github&label=Seguidores"
-    />
+    <a href="https://github.com/Guilherme-Ertel?tab=followers" target="_blank">
+        <img 
+            alt="Seguidores"
+            title="Me siga no GitHub"
+            src="https://img.shields.io/github/followers/Guilherme-Ertel?style=for-the-badge&logo=github&label=Seguidores&color=181717"
+        />
     </a>
 </p>
+
 ---
 
 ###  Linguagens e Tecnologias
