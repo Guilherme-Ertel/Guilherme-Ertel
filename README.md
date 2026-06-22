@@ -10,35 +10,35 @@ Me chamo Guilherme Ertel, tenho 20 anos e sou natural de Palmas PR. Concluí o e
         <img 
             alt="Endereço de email"
             title="Email"  
-            src="https://custom-icon-badges.demolab.com/badge/-Email%20-red?style=for-the-badge&logoColor=white&logo=mail"
+            src="https://custom-icon-badges.demolab.com/badge/-Email%20-black?style=for-the-badge&logoColor=white&logo=mail"
         />
     </a>
     <a href="https://www.linkedin.com/in/guilherme-ertel-828513308/">
         <img 
             alt="Perfil do Linkedin"
             title="Linkedin"  
-            src="https://custom-icon-badges.demolab.com/badge/-Linkedin%20-blue?style=for-the-badge&logoColor=white&logo=linked"
+            src="https://custom-icon-badges.demolab.com/badge/-Linkedin%20-white?style=for-the-badge&logoColor=white&logo=linked"
         />
     </a>
     <a href="https://www.instagram.com/gui_ertel/">
         <img 
             alt="Perfil do Instagram"
             title="Instagram"  
-            src="https://custom-icon-badges.demolab.com/badge/-instagram%20-orange?style=for-the-badge&logoColor=white&logo=instagram"
+            src="https://custom-icon-badges.demolab.com/badge/-instagram%20-black?style=for-the-badge&logoColor=white&logo=instagram"
         />
     </a>
     <a href="https://github.com/Guilherme-Ertel?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/cassianocomim?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/cassianocomim?color=whitec&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Guilherme-Ertel?tab=followers">
     <img 
         alt="Seguidores" 
         title="Me siga no GitHub" 
-        src="https://img.shields.io/github/followers/cassianocomim?color=C79600&labelColor=E1AD0E&style=for-the-badge&logo=github&label=Seguidores"
+        src="https://img.shields.io/github/followers/cassianocomim?color=C79600&labelColor=blackE&style=for-the-badge&logo=github&label=Seguidores"
     />
     </a>
 </p>
