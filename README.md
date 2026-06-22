@@ -14,7 +14,9 @@ Tenho grande interesse por tecnologia, desenvolvimento de software e aprendizado
         <img 
             alt="Email"
             title="Enviar Email"
-            src="https://custom-icon-badges.demolab.com/badge/-Email-white?style=for-the-badge&logo=mail&logoColor=white"/></a>
+            src="https://custom-icon-badges.demolab.com/badge/-Email-white?style=for-the-badge&logo=mail&logoColor=white"
+            />
+         </a>
     <a href="https://www.linkedin.com/in/Guilherme-Ertel-828513308/" target="_blank">
         <img 
             alt="LinkedIn"
