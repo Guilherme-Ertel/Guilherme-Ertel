@@ -4,15 +4,44 @@
 
 Me chamo Guilherme Ertel, tenho 20 anos e sou natural de Palmas PR. Concluí o ensino médio no IFPR, com o curso técnico em Serviços Juridicos. Atualmente, estou cursando Ciencia da Computação na UFFS-Campus Chapecó. Tenho um grande interesse em aprender e uma grande paixão por computação.
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=CSS&color=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Python&color=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Github&color=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=HTML&color=black&style=for-the-badge"/>
-  <a href="">
-  <img src="https://img.shields.io/static/v1?label=&message=INstragram&color=white&style=for-the-badge"/>
-</p>
 
+<p align="left">
+    <a href="mailto:guilhermeertel159@gmail.com">
+        <img 
+            alt="Endereço de email"
+            title="Email"  
+            src="https://custom-icon-badges.demolab.com/badge/-Email%20-red?style=for-the-badge&logoColor=white&logo=mail"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/guilherme-ertel-828513308/">
+        <img 
+            alt="Perfil do Linkedin"
+            title="Linkedin"  
+            src="https://custom-icon-badges.demolab.com/badge/-Linkedin%20-blue?style=for-the-badge&logoColor=white&logo=linked"
+        />
+    </a>
+    <a href="https://www.instagram.com/cassi.comim?igsh=dWtsOWswOWZwNG04">
+        <img 
+            alt="Perfil do Instagram"
+            title="Instagram"  
+            src="https://custom-icon-badges.demolab.com/badge/-instagram%20-orange?style=for-the-badge&logoColor=white&logo=instagram"
+        />
+    </a>
+    <a href="https://github.com/Guilherme-Ertel?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/cassianocomim?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Guilherme-Ertel?tab=followers">
+    <img 
+        alt="Seguidores" 
+        title="Me siga no GitHub" 
+        src="https://img.shields.io/github/followers/cassianocomim?color=C79600&labelColor=E1AD0E&style=for-the-badge&logo=github&label=Seguidores"
+    />
+    </a>
+</p>
 ---
 
 ###  Linguagens e Tecnologias
