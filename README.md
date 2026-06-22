@@ -38,7 +38,7 @@ Me chamo Guilherme Ertel, tenho 20 anos e sou natural de Palmas PR. Concluí o e
     <img 
         alt="Seguidores" 
         title="Me siga no GitHub" 
-        src="https://img.shields.io/github/followers/cassianocomim?color=C79600&labelColor=blackE&style=for-the-badge&logo=github&label=Seguidores"
+        src="https://img.shields.io/github/followers/cassianocomim?color=black&labelColor=blackE&style=for-the-badge&logo=github&label=Seguidores"
     />
     </a>
 </p>
